@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.todo__container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input{
+  padding:10px;
+  outline: none;
+}
+.submit__btn{
+  padding: 10px ;
+}
